@@ -1,0 +1,14 @@
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/bin/Debug/net8.0/carCal
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/bin/Debug/net8.0/carCal.deps.json
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/bin/Debug/net8.0/carCal.runtimeconfig.json
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/bin/Debug/net8.0/carCal.dll
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/bin/Debug/net8.0/carCal.pdb
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/obj/Debug/net8.0/carCal.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/obj/Debug/net8.0/carCal.AssemblyInfoInputs.cache
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/obj/Debug/net8.0/carCal.AssemblyInfo.cs
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/obj/Debug/net8.0/carCal.csproj.CoreCompileInputs.cache
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/obj/Debug/net8.0/carCal.dll
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/obj/Debug/net8.0/refint/carCal.dll
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/obj/Debug/net8.0/carCal.pdb
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/obj/Debug/net8.0/carCal.genruntimeconfig.cache
+/Applications/XAMPP/xamppfiles/htdocs/DOTNET/carCal/obj/Debug/net8.0/ref/carCal.dll
